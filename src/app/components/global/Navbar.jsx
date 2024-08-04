@@ -96,7 +96,7 @@ const navItems = [
   
   {
     label: "Institute",
-    link: "/Institute",
+    link: "#",
     mlabel:"Institute",
     children: [
       
@@ -137,7 +137,7 @@ const navItems = [
   },
   {
     label: "Administration",
-    link: "/Administration/Visitor",
+    link: "#",
     mlabel:"Administration",
     children: [
       {
@@ -201,7 +201,7 @@ const navItems = [
   },
   {
     label: "Academics",
-    link: "/Academics/Programmes",
+    link: "#",
     mlabel:"Academics",
     children: [
       {
